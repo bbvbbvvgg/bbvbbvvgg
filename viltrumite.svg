@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#21191c"/><stop offset="1" stop-color="#0c0e11"/></linearGradient><linearGradient id="wing" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e2c8bc"/><stop offset="1" stop-color="#b34e52"/></linearGradient></defs>
+<rect width="360" height="200" rx="13" fill="url(#bg)"/>
+<path d="M27 52l55 105 54-105" fill="none" stroke="#f2e7e0" stroke-width="18" stroke-linejoin="miter"/>
+<path d="M58 41l27 56 29-56" fill="none" stroke="url(#wing)" stroke-width="9"/>
+<path d="M20 174l125-134" stroke="#b34e52" stroke-width="3" opacity=".55"/>
+<text x="160" y="91" fill="#f3eeeb" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing=".5">VILTRUMITE</text>
+<text x="162" y="119" fill="#d38e8b" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" letter-spacing="5">MODS</text>
+<path d="M162 135h170" stroke="#574143"/>
+<text x="162" y="156" fill="#aa9694" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">FORGE / JAVA</text>
+</svg>

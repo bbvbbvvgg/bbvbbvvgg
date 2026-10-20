@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111824"/><stop offset="1" stop-color="#090c13"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e85b6c"/><stop offset="1" stop-color="#7b2939"/></linearGradient>
+</defs>
+<rect width="360" height="200" rx="13" fill="url(#bg)"/>
+<path d="M0 175 L360 32 M0 196 L360 53" stroke="#2b3748" stroke-width="1" opacity=".45"/>
+<path d="M24 21h31M24 21v31M336 179h-31M336 179v-31" fill="none" stroke="#6a788c" opacity=".55" stroke-width="2"/>
+<path d="M114 52 A56 56 0 1 0 114 148" fill="none" stroke="#f2f5f8" stroke-width="17" stroke-linecap="square"/>
+<path d="M123 29l-19 68 26-13-18 75" fill="none" stroke="url(#red)" stroke-width="10" stroke-linejoin="round"/>
+<text x="170" y="91" fill="#f0f2f7" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" letter-spacing="1">CODEX</text>
+<text x="172" y="119" fill="#e07786" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3">SUPERHEROES</text>
+<path d="M171 136h160" stroke="#3b485b" stroke-width="1"/>
+<text x="172" y="157" fill="#8591a3" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">FABRIC / JAVA</text>
+</svg>
