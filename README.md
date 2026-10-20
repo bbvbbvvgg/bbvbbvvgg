@@ -1,4 +1,4 @@
-ббв
+
 абсолютный вайбкодер. в основном делаю моды на minecraft для себя.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" />
 обо мне
