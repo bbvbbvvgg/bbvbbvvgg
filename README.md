@@ -1,6 +1,6 @@
-# привет, я ббв 👋
+# привет, я bbvbbvvgg 👋
 
-абсолютный вайбкодер. в основном делаю моды для minecraft на java. просто для себя.
+вайбкодер. в основном делаю моды для minecraft на java просто для себя.
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" />
